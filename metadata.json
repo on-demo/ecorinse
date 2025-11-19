@@ -1,0 +1,7 @@
+{
+  "name": "EcoRinse",
+  "description": "Skip the Queue, Save the Planet. A minimalist web application to book eco-friendly mobile car wash services.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
